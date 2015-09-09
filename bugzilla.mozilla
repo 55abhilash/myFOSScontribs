@@ -1,0 +1,7 @@
+1) Put the value of oneOffSearchButton in UI telemetry :
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1130210
+
+2) Put statistics of forget button in UI telemetry :
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1097876
